@@ -51,18 +51,10 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-  <div style="display: flex; justify-content: space-between; flex-wrap: wrap;" gap="20px">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shahid514-tech&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180px" style="margin-right: 20px;"/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Shahid514-tech&theme=tokyonight&hide_border=false" height="180px" style="margin-left: 20px;"/>
-  </div>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid514-tech&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180px"/>
-
-</div>
+# 📊 GitHub Stats: 
+![](https://github-readme-stats.vercel.app/api?username=Shahid514-tech&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) 
+![](https://nirzak-streak-stats.vercel.app/?user=Shahid514-tech&theme=tokyonight&hide_border=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid514-tech&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
