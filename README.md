@@ -1,5 +1,43 @@
-# 💫 About Me:
-👋 Hi, I’m Shahid<br><br>🎓 Final Year B.Tech. Computer Science & Engineering (Specialization: Data Science) student.<br>💡 Passionate about Data Science, Machine Learning, and Full-Stack Development.<br><br>🚀 What I Do<br><br>🧠 Data Science & Machine Learning:<br><br>Building models for sentiment analysis, computer vision, and classification problems.<br><br>Comfortable with TensorFlow, NLP, and model training workflows.<br><br>Love experimenting with AI-powered projects like interview bots, blog writers, and detection models.<br><br>🌐 Full-Stack Development (MERN):<br><br>Frontend: React.js (with ShadCN UI, TailwindCSS, Framer Motion) for modern UIs.<br><br>Backend: Express.js / Node.js, with Supabase & MongoDB for database and auth.<br><br>Exploring Flask for ML APIs and Spring Boot for enterprise apps.<br><br>🔬 Projects:<br><br>🤖 AI Interview Bot (Flask + React) – conducts role-based interviews.<br><br>📊 Twitter Sentiment Analysis – trained a classifier on 74k+ tweets.<br><br>🩺 Acne Detection Model – TensorFlow-based computer vision model for skin conditions.<br><br>📝 AutoSEO Blog Writer – AI-powered blog generator with SEO optimization.<br><br>⚙️ Sanskrit-based Programming Language – experimental compiler with Devanagari syntax.<br><br>💻 Local Codespaces Alternative – VM-based development environment.<br><br>🛠️ Tech Stack<br><br>Languages: Python, Java, JavaScript (ES6+), C++<br><br>Frontend: React.js, TailwindCSS, ShadCN UI<br><br>Backend: Node.js (Express), Flask, Spring Boot<br><br>Databases: MongoDB, Supabase, PostgreSQL, MySQL<br><br>AI/ML: TensorFlow, Keras, Scikit-learn, NLP<br><br>Tools: Git, Docker, VS Code, Eclipse, IntelliJ<br><br>🌱 Currently Exploring<br><br>🧩 Advanced ML models (EfficientNet, Transformers)<br><br>🎨 Portfolio Development with MERN + AI Integrations<br><br>📚 DSA (Java) & Aptitude Prep for placements<br>
+# 💫 About Me
+
+👋 Hi, I’m **Shahid**  
+🎓 B.Tech. Computer Science & Engineering (Specialization: Data Science) student  
+💡 Passionate about **Data Science, Machine Learning, and Full-Stack Development**
+
+---
+
+## 🚀 What I Do  
+
+### 🧠 Data Science & Machine Learning  
+- Building models for **sentiment analysis, computer vision, and classification problems**  
+- Comfortable with **TensorFlow, NLP, and model training workflows**  
+- Love experimenting with **AI-powered projects** like interview bots, blog writers, and detection models  
+
+### 🌐 Full-Stack Development (MERN)  
+- **Frontend**: React.js (with ShadCN UI, TailwindCSS, Framer Motion) for modern UIs  
+- **Backend**: Express.js / Node.js, with Supabase & MongoDB for database and auth  
+- Exploring **Flask** for ML APIs and **Spring Boot** for enterprise apps  
+
+---
+
+## 🔬 Projects  
+- 🤖 **AI Interview Bot** (Flask + React) – conducts role-based interviews  
+- 📊 **Twitter Sentiment Analysis** – trained a classifier on 74k+ tweets  
+- 🩺 **Acne Detection Model** – TensorFlow-based computer vision model for skin conditions  
+- 📝 **AutoSEO Blog Writer** – AI-powered blog generator with SEO optimization  
+- ⚙️ **Sanskrit-based Programming Language** – experimental compiler with Devanagari syntax  
+- 💻 **Local Codespaces Alternative** – VM-based development environment  
+
+---
+
+## 🌱 Currently Exploring  
+- 🧩 Advanced ML models (**EfficientNet, Transformers**)  
+- 🎨 Portfolio Development with **MERN + AI Integrations**  
+- 📚 DSA (Java) & Aptitude Prep for placements  
+
+---
+
+⚡ *"Blending AI, data, and full-stack magic to craft smart solutions."*
 
 
 ## 🌐 Socials:
